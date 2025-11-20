@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+isr/__init__.py
+isr/cli.py
+isr_cli.egg-info/PKG-INFO
+isr_cli.egg-info/SOURCES.txt
+isr_cli.egg-info/dependency_links.txt
+isr_cli.egg-info/entry_points.txt
+isr_cli.egg-info/requires.txt
+isr_cli.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+[project]
+name = "isr-cli"
+version = "0.1.0"
+dependencies = [
+    "click",
+    "anthropic"
+]
+
+[project.scripts]
+isr = "isr.cli:cli"
